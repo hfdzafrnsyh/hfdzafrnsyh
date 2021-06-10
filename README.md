@@ -1,7 +1,8 @@
 ### Hi there 👋 , I'am Hafidz
----------
+
 [![Linkedin Badge](https://img.shields.io/badge/-hafidzafriansyah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafidzafriansyah/)](https://www.linkedin.com/in/hafidzafriansyah/) [![Github Badge](https://img.shields.io/badge/-hfdzafrnsyh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hfdzafrnsyh/)](https://www.github.com/hfdzafrnsyh/) 
---------
+
+---------
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hfdzafrnsyh alt=hfdzafrnsyh /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff) 
@@ -15,8 +16,13 @@
 <!--
 **hfdzafrnsyh/hfdzafrnsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
---githuv readme stats
+--github readme stats
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hfdzafrnsyh&repo=todos-backend)
+
+--tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-ReactJs-61DBFB?logo=React&logoColor=white)
 
 Here are some ideas to get you started:
 
