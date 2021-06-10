@@ -1,8 +1,11 @@
-### Hi there , I'am Hafidz 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff)
-<br/>
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 , I'am Hafidz
+---------
+[![Linkedin Badge](https://img.shields.io/badge/-hafidzafriansyah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafidzafriansyah/)](https://www.linkedin.com/in/hafidzafriansyah/) [![Github Badge](https://img.shields.io/badge/-hfdzafrnsyh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hfdzafrnsyh/)](https://www.github.com/hfdzafrnsyh/) 
+--------
+<p align=left> <img src=https://komarev.com/ghpvc/?username=hfdzafrnsyh alt=hfdzafrnsyh /> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade&show_icons=true&theme=cobalt&layout=compact)](https://github.com/hfdzafrnsyh/github-readme-stats)
 
 
 
