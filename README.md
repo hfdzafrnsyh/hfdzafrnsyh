@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there , I'am Hafidz 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
