@@ -1,6 +1,4 @@
 ### Hi there , I'am Hafidz 👋
-<br/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff)
 <br/>
 <br/>
