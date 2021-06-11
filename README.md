@@ -1,8 +1,4 @@
 
-<p align=center> 
-  <img src="https://raw.githubusercontent.com/hfdzafrnsyh/hfdzafrnsyh/main/hfdz.png" width=210px /> 
-</p>
-
 ### Hi there 👋 , I'am Hafidz
 
 [![Linkedin Badge](https://img.shields.io/badge/-hafidzafriansyah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafidzafriansyah/)](https://www.linkedin.com/in/hafidzafriansyah/) [![Github Badge](https://img.shields.io/badge/-hfdzafrnsyh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hfdzafrnsyh/)](https://www.github.com/hfdzafrnsyh/) 
@@ -19,6 +15,12 @@
 
 
 <!--
+--image header
+
+<p align=center> 
+  <img src="https://raw.githubusercontent.com/hfdzafrnsyh/hfdzafrnsyh/main/hfdz.png" width=210px /> 
+</p>
+
 **hfdzafrnsyh/hfdzafrnsyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --github readme stats
