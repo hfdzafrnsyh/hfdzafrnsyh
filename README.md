@@ -6,10 +6,10 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-hafidzafriansyah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hafidzafriansyah/)](https://www.linkedin.com/in/hafidzafriansyah/) [![Github Badge](https://img.shields.io/badge/-hfdzafrnsyh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hfdzafrnsyh/)](https://www.github.com/hfdzafrnsyh/)  -->
 
 <!-- --------- -->
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hfdzafrnsyh alt=hfdzafrnsyh /> </p>
+<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=hfdzafrnsyh alt=hfdzafrnsyh /> </p> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade&show_icons=true&layout=compact&text_color=1E90FF&border_color=70a5fd&bg_color=f8f8ff&border_radius=4)](https://github.com/hfdzafrnsyh/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade&show_icons=true&theme=tokyonight&layout=compact&text_color=1E90FF&border_color=70a5fd&bg_color=00004d&border_radius=4)](https://github.com/hfdzafrnsyh/github-readme-stats)
 
 
 
