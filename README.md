@@ -9,7 +9,7 @@
 <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=hfdzafrnsyh alt=hfdzafrnsyh /> </p> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hfdzafrnsyh&show_icons=true&theme=tokyonight&text_color=ffffff)  -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade,html,css,handlebars,scss&show_icons=true&theme=tokyonight&layout=compact&text_color=1E90FF&border_color=70a5fd&bg_color=00004d&border_radius=4)](https://github.com/hfdzafrnsyh/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hfdzafrnsyh&hide=blade,css,handlebars,scss,hack&show_icons=true&theme=tokyonight&layout=compact&text_color=1E90FF&border_color=70a5fd&bg_color=00004d&border_radius=4)](https://github.com/hfdzafrnsyh/github-readme-stats)
 
 
 
